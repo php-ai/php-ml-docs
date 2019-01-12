@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://my-jigsaw-docs.com',
+    'baseUrl' => 'https://php-ml.org',
     'production' => true,
 
     // DocSearch credentials
