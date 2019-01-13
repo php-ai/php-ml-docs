@@ -10,7 +10,7 @@
         <meta property="og:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}"/>
         <meta property="og:description" content="{{ $page->description ?? $page->siteDescription }}"/>
         <meta property="og:url" content="{{ $page->getUrl() }}"/>
-        <meta property="og:image" content="/assets/img/favicon.ico"/>
+        <meta property="og:image" content="/favicon.ico"/>
         <meta property="og:type" content="website"/>
 
         <meta name="twitter:image:alt" content="{{ $page->siteName }}">
