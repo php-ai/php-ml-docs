@@ -8,6 +8,7 @@
 
             <ul class="text-2xl">
                 <li>Simple and efficient tools for data mining and data analysis</li>
+                <li>20+ ready to use algorithms</li>
                 <li>Built with plain PHP</li>
                 <li>No additional dependencies</li>
                 <li>Open source, commercially usable - MIT license</li>
